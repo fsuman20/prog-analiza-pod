@@ -39,7 +39,7 @@ Da biste koristili ovaj projekt, trebat ćete instalirati neke biblioteke i alat
 - GeoPandas
 - xml.etree.ElementTree
 
-Nakon što instalirate sve potrebno, možete pokrenuti Jupyter Notebook i otvoriti datoteku `suman-analiza.ipynb`, koja sadrži sav kod i objašnjenja za ovaj projekt. Također, možete pokrenuti web servis koji prikazuje naše rezultate i vizualizacije tako što ćete pokrenuti datoteku `WarmApp.py` i otvoriti `http://localhost:5000` u vašem pregledniku.
+Nakon što instalirate sve potrebno, možete pokrenuti Jupyter Notebook i otvoriti datoteku `Projekt.ipynb`, koja sadrži sav kod i objašnjenja za ovaj projekt. Također, možete pokrenuti web servis koji prikazuje naše rezultate i vizualizacije tako što ćete pokrenuti datoteku `WarmApp.py` i otvoriti `http://localhost:5000` u vašem pregledniku.
 
 ## Literatura
 
