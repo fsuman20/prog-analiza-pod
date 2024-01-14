@@ -6,7 +6,7 @@ import os
 import subprocess
 
 
-#_____Kloniranje repozitorija_____
+#_____Kloniranje repozitorija_____ [ChatGPT, 14.01.2024]
 def kloniraj_repozitorij():
     url = "https://github.com/fsuman20/prog-analiza-pod.git"
     trenutni_dir = os.path.dirname(os.path.abspath(__file__))
