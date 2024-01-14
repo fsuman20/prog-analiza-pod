@@ -32,7 +32,6 @@ Da biste koristili ovaj projekt, trebat ćete instalirati neke biblioteke i alat
 - Numpy
 - Matplotlib
 - Seaborn
-- Plotly
 - Scikit-learn
 - Flask
 - sqlite3
